@@ -16,17 +16,17 @@ The goal of this project was to transform raw datasets into actionable, structur
 
 | Report Name                       | Description |
 |----------------------------------|-------------|
-| **Top 5 Country in 2021**        | Highlights the top-performing countries by net sales. |
-| **Top 5 vs Bottom 5**            | Contrasts best and worst-performing products. |
-| **Top 10 Products**              | Lists the 10 highest-selling products with key metrics. |
-| **Division Level Report**        | Evaluates performance at the division level. |
-| **Market Performance vs Target** | Compares market-wise sales with set targets. |
-| **Net Sales Performance**        | Detailed sales tracking across filters. |
-| **New Products in 2021**         | Tracks the performance of newly launched products. |
-| **P&L – Monthly View**           | Monthly breakdown of profit and loss. |
-| **P&L – Yearly View**            | Year-wise summary of P&L performance. |
-| **P&L by Market**                | Profit and Loss analysis market-wise. |
-| **GM% by Quarters**              | Gross Margin percentage tracked by quarter. |
+| **[Top 5 Country in 2021](https://github.com/vickyumare/Excel-Sales-Analytics/blob/main/Top%205%20Country%20in%2021.pdf)**        | Highlights the top-performing countries by net sales. |
+| **[Top 5 vs Bottom 5 Products](https://github.com/vickyumare/Excel-Sales-Analytics/blob/main/Top%205%20Vs%20Bottom%205.pdf)**            | Contrasts best and worst-performing products. |
+| **[Top 10 Products](https://github.com/vickyumare/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)**              | Lists the 10 highest-selling products with key metrics. |
+| **[Division Level Report](https://github.com/vickyumare/Excel-Sales-Analytics/blob/main/Division%20Level%20Report.pdf)**        | Evaluates performance at the division level. |
+| **[Market Performance vs Target](https://github.com/vickyumare/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)** | Compares market-wise sales with set targets. |
+| **[Net Sales Performance](https://github.com/vickyumare/Excel-Sales-Analytics/blob/main/Net%20Sales%20Performance.pdf)**        | Detailed sales tracking across filters. |
+| **[New Products in 2021](https://github.com/vickyumare/Excel-Sales-Analytics/blob/main/New%20Prodcuts%20in%2021.pdf)**         | Tracks the performance of newly launched products. |
+| **[P&L – Monthly View](https://github.com/vickyumare/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Month.pdf)**           | Monthly breakdown of profit and loss. |
+| **[P&L – Yearly View](https://github.com/vickyumare/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year.pdf)**            | Year-wise summary of P&L performance. |
+| **[P&L by Market](https://github.com/vickyumare/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Market.pdf)**                | Profit and Loss analysis market-wise. |
+| **[GM% by Quarters](https://github.com/vickyumare/Excel-Sales-Analytics/blob/main/GM%25%20by%20Quarters.pdf)**              | Gross Margin percentage tracked by quarter. |
 
 ---
 
